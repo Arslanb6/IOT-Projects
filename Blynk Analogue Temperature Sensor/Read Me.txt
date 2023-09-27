@@ -1,0 +1,5 @@
+## IOT PROJECT## 
+
+An analogue temperature sensor instrumentation circuit. Circuit design was finalized through fritzing. 
+
+Blynk IOT, app is used to collect and visualized data from analogue channels through an ESP8266. The board transmits data over Wifi to blynk's cloud servers.
